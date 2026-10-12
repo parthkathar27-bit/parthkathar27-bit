@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Parth 👋
 
-<!--
-**parthkathar27-bit/parthkathar27-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm learning to build software, solve problems, and turn ideas into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Currently
+- Learning programming and core CS fundamentals
+- Practicing problem-solving
+- Exploring open source and software development
+- Practicing Competitive Programming
+
+# 🛠️ Technologies
+- Git & GitHub
+- C / C++ / java
+- Python
+
+#🎯 My Goal
+Build meaningful projects, contribute to open source, and grow into a skilled software engineer.
+
+*Code. Learn. Build. Repeat*
